@@ -1,0 +1,9 @@
+# timeit
+simple way to measure time taken by a small snippet like python's timeit
+
+provides:
+- timeit(): takes a function pointer and number of iterations
+            returning the average time taken by it for that many
+            iterations.
+
+check `example.c` for usage.
